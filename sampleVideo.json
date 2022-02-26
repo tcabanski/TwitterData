@@ -1,0 +1,87 @@
+{
+    "_type": "snscrape.modules.twitter.Tweet",
+    "url": "https://twitter.com/SeeFunnyVideo/status/1495901540074553344",
+    "date": "2022-02-21T23:21:34+00:00",
+    "content": "Big problems 😬 https://t.co/juRBOGAvgW",
+    "renderedContent": "Big problems 😬 https://t.co/juRBOGAvgW",
+    "id": 1495901540074553300,
+    "user": {
+        "_type": "snscrape.modules.twitter.User",
+        "username": "SeeFunnyVideo",
+        "id": 166482473,
+        "displayname": "Funny Videos / Viral Videos",
+        "description": "funny videos / viral videos\n\n...",
+        "rawDescription": "funny videos / viral videos\n\n...",
+        "descriptionUrls": null,
+        "verified": false,
+        "created": "2010-07-14T07:35:21+00:00",
+        "followersCount": 61546,
+        "friendsCount": 2,
+        "statusesCount": 7246,
+        "favouritesCount": 667,
+        "listedCount": 340,
+        "mediaCount": 1123,
+        "location": "Worldwide",
+        "protected": false,
+        "linkUrl": null,
+        "linkTcourl": null,
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/1157568713622601728/7CJvNlXT_normal.png",
+        "profileBannerUrl": "https://pbs.twimg.com/profile_banners/166482473/1583928601",
+        "label": null,
+        "url": "https://twitter.com/SeeFunnyVideo"
+    },
+    "replyCount": 2,
+    "retweetCount": 6,
+    "likeCount": 38,
+    "quoteCount": 2,
+    "conversationId": 1495901540074553300,
+    "lang": "en",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "sourceUrl": "https://mobile.twitter.com",
+    "sourceLabel": "Twitter Web App",
+    "outlinks": null,
+    "tcooutlinks": null,
+    "media": [
+        {
+            "_type": "snscrape.modules.twitter.Video",
+            "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/1453656413914423296/img/em7JfGOg2MZUIwc3.jpg",
+            "variants": [
+                {
+                    "_type": "snscrape.modules.twitter.VideoVariant",
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/1453656413914423296/vid/480x600/m4CtH4Otfir_T1s4.mp4?tag=14",
+                    "bitrate": 950000
+                },
+                {
+                    "_type": "snscrape.modules.twitter.VideoVariant",
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/1453656413914423296/vid/320x400/txB7plvD6DCm-diF.mp4?tag=14",
+                    "bitrate": 632000
+                },
+                {
+                    "_type": "snscrape.modules.twitter.VideoVariant",
+                    "contentType": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/amplify_video/1453656413914423296/pl/onEHl5m8zYIJJUMY.m3u8?tag=14&container=fmp4",
+                    "bitrate": null
+                },
+                {
+                    "_type": "snscrape.modules.twitter.VideoVariant",
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/1453656413914423296/vid/720x900/AoAg1YPPK3dJBbPw.mp4?tag=14",
+                    "bitrate": 2176000
+                }
+            ],
+            "duration": 195.541,
+            "views": 1285124
+        }
+    ],
+    "retweetedTweet": null,
+    "quotedTweet": null,
+    "inReplyToTweetId": null,
+    "inReplyToUser": null,
+    "mentionedUsers": null,
+    "coordinates": null,
+    "place": null,
+    "hashtags": null,
+    "cashtags": null
+}
