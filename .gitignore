@@ -1,5 +1,6 @@
 *.jsonl
 *.csv
+*.png
 snscrape
 
 # Byte-compiled / optimized / DLL files
